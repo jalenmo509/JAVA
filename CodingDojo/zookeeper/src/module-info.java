@@ -1,0 +1,3 @@
+module zookeeper {
+	exports zookeeperpath;
+}
